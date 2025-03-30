@@ -1,11 +1,11 @@
-![System Designer](https://scontent.fhnd4-1.fna.fbcdn.net/v/t39.30808-6/475183436_627069609785850_2914660034010265978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=fEWHEcQoMNYQ7kNvgHx60l7&_nc_oc=AdldoT5a3Aze7NPVtmf2AnUyEONDHzNLrN88-UzwXcq3ODUPqkv5GXUgI0LA_o1f9y0_2CBCnNc32nIHCwvjDBzZ&_nc_zt=23&_nc_ht=scontent.fhnd4-1.fna&_nc_gid=BkL7jPMH8ARolOWUosG2yg&oh=00_AYFuRtmXhduRw3XdRV7RQTCT6xqnpkl1X9gHtkKzCPbfag&oe=67EEE2C2)
+[![System Designer](https://scontent.fhnd4-1.fna.fbcdn.net/v/t39.30808-6/475183436_627069609785850_2914660034010265978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=fEWHEcQoMNYQ7kNvgHx60l7&_nc_oc=AdldoT5a3Aze7NPVtmf2AnUyEONDHzNLrN88-UzwXcq3ODUPqkv5GXUgI0LA_o1f9y0_2CBCnNc32nIHCwvjDBzZ&_nc_zt=23&_nc_ht=scontent.fhnd4-1.fna&_nc_gid=BkL7jPMH8ARolOWUosG2yg&oh=00_AYFuRtmXhduRw3XdRV7RQTCT6xqnpkl1X9gHtkKzCPbfag&oe=67EEE2C2)](https://scontent.fhnd4-1.fna.fbcdn.net/v/t39.30808-6/487167781_668586445634166_5702471114049254903_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=phe_viAnnSQQ7kNvgF9_GBT&_nc_oc=AdlsZ-NCeuEspVm6dWdvx2NBeLpRxmdxoL6h4HaO4-tnacfFe67faZGu_ZjbsySHD7cu4xaUYlQUQGEt1ZBFNLt-&_nc_zt=23&_nc_ht=scontent.fhnd4-1.fna&_nc_gid=uKewYV_MavCDwGdgIO-isA&oh=00_AYHpphLj3EVVmBtsJD36EdRzwWEIJ1Ozo6nu46WBT9JKeQ&oe=67EEF971)
  
  ### Hi there 👋, My name is Bapari
 #### System Designer
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am a Frontend Developer | Building interactive web experiences with HTML, CSS & JavaScript.
 
-Skills: JS / HTML / CSS/PYTHON
+Skills: JS / HTML / CSS/ PYTHON
 
 - 🌱 I’m currently learning CSS 
 - 👯 I’m looking to collaborate on github 
