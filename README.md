@@ -25,7 +25,5 @@ Skills: JS / HTML / CSS/ PYTHON
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/bapari-007/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/bapari-007)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=bapari-007)  
 
